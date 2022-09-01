@@ -1,4 +1,4 @@
-Nama : Natanael Pascal Simbolon
+Nama : Natanael Pascal Simbolon 
 
 NPM : 2106751764
 
