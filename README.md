@@ -4,4 +4,4 @@ NPM : 2106751764
 
 Kelas : B
 
-Hobi : Bermain gitar
+Hobi : Bermain game
